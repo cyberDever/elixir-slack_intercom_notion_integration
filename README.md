@@ -1,5 +1,3 @@
-# JumpTickets
-
 ## Set up .env File
 Copy and paste the contents of `.env.template` into a new file called `.env` and make sure to run `source .env` in the command line after modifying values of this file.
 
